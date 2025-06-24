@@ -1,23 +1,35 @@
 # 🎓 Student Performance Dashboard
 
-This project showcases a comprehensive and interactive *Excel Dashboard* that visualizes the academic performance of students in *Class 9 and Class 10*. Designed to assist educators and stakeholders in gaining clear insights into student progress, attendance, and subject-level performance.
-
+This project showcases a comprehensive and interactive Excel Dashboard that visualizes the academic performance of students in Class 9 and Class 10. Designed to assist educators and stakeholders in gaining clarity on overall performance, attendance, gender comparisons, and subject-level insights.
 ---
 
 ## 📊 Features
 
-- ✅ *Interactive Slicers* for filtering by:
-  - Class (9 & 10)
-  - Gender
-  - Performance Level (Top, Average, Poor)
-- 🧮 *Subject-wise Average Marks*
-- 🧑‍🎓 *Top 5 Students by Total Marks*
-- 📉 *Attendance vs gender Comparison*
-- 📌 KPIs for:
-  - Total Students
-  - Average Attendance
-  - Performance Distribution
+🔹 Interactive Dashboard with Slicers (Student.xlsx):
 
+Allows dynamic filtering by Gender, Class, and Performance Level
+
+Visualizes Total Marks by Performance Group
+
+Displays Subject-wise Average Marks
+
+Clean and responsive layout for easy navigation
+
+
+🔹 Static Dashboard (StudentData final.xlsx):
+
+Overview of Class 9 & Class 10 academic stats
+
+8+ Data Visualizations including:
+
+Subject-wise and student-wise performance
+
+Attendance comparison
+
+Gender-wise academic and attendance insights
+
+
+Clear sectioning of charts for easier interpretation
 ---
 
 ## 📂 File Structure
@@ -56,6 +68,8 @@ This project helped me gain practical skills in:
 
 ### 🖼 Dashboard Screenshot
 ![Dashboard Preview](Student%20.png)
+### 🎥 Interactive Dashboard Walkthrough
+[▶ Click here to watch the video](Student.mp4)
 
 ---
 

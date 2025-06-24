@@ -53,8 +53,7 @@ This project helped me gain practical skills in:
 ## 📎 Preview
 
 ### 🖼 Dashboard Screenshot
-Student.png
-
+![Dashboard Preview](./Student.png)
 
 ---
 
@@ -62,7 +61,7 @@ Student.png
 
 I'm an aspiring Data Analyst passionate about turning data into impactful decisions.
 
-- 💼 LinkedIn:https://github.com/AaminaShareef/Student-Performance-Dashboard
+- 💼 LinkedIn:www.linkedin.com/in/aamina-shareef
 - 📧 Email:aaminashareef21@gmail.com
 
 ---

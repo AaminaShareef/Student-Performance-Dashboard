@@ -25,7 +25,7 @@ This project showcases a comprehensive and interactive *Excel Dashboard* that vi
 | File | Description |
 |------|-------------|
 | Student_Performance_Data.xlsx | Main Excel file with interactive dashboard |
-| Student%20.png | Preview image of the dashboard |
+| Student .png | Preview image of the dashboard |
 | README.md | Project description and documentation |
 
 ---

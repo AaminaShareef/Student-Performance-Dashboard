@@ -12,7 +12,7 @@ This project showcases a comprehensive and interactive *Excel Dashboard* that vi
   - Performance Level (Top, Average, Poor)
 - 🧮 *Subject-wise Average Marks*
 - 🧑‍🎓 *Top 5 Students by Total Marks*
-- 📉 *Attendance vs Performance Comparison*
+- 📉 *Attendance vs gender Comparison*
 - 📌 KPIs for:
   - Total Students
   - Average Attendance
@@ -24,8 +24,10 @@ This project showcases a comprehensive and interactive *Excel Dashboard* that vi
 
 | File | Description |
 |------|-------------|
-| Student_Performance_Data.xlsx | Main Excel file with interactive dashboard |
-| Student .png | Preview image of the dashboard |
+| StudentData final.xlsx | A Static dashboard version |
+| Student.xlsx | Interactive dashboard (with slicers) |
+| Student .png | Preview image of the static dashboard |
+| Student.mp4 | Video walkthrough of the interactive dashboard |
 | README.md | Project description and documentation |
 
 ---

@@ -53,7 +53,7 @@ This project helped me gain practical skills in:
 ## 📎 Preview
 
 ### 🖼 Dashboard Screenshot
-![Dashboard Preview](Student.png)
+Student.png
 
 
 ---

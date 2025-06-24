@@ -69,7 +69,7 @@ This project helped me gain practical skills in:
 ### 🖼 Dashboard Screenshot
 ![Dashboard Preview](Student%20.png)
 ### 🎥 Interactive Dashboard Walkthrough
-[▶ Click here to watch the video](Student.mp4)
+[▶ Click here to watch the video](https://drive.google.com/file/d/1p_rQjvZ9CY7i6VR0VzVOSh8qKgQ84M5Y/view?usp=drive_link)
 
 ---
 
